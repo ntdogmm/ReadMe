@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ntdogmm
+- 👋 Hi, I’m ntdogmm
 - 👀 I’m a newbie in Game Developing and Apps as Well
 - 🌱 I’m currently learning Unity and MAUI for Cross Framework
 - 💞️ I have developed some Game(s) and App(s), I will list it here soon 
